@@ -1,0 +1,215 @@
+Question,Intent
+
+What are the courses offered?,courses
+How many programs are available?,courses
+List all the courses you have.,courses
+Tell me about B.Tech programs.,courses
+Do you provide M.Tech courses?,courses
+Which courses are offered at NIET?,courses
+Give details about MBA courses.,courses
+Tell me about MCA course.,courses
+Do you have computer science courses?,courses
+List engineering branches offered.,courses
+Which departments are available?,courses
+Tell me about mechanical engineering.,courses
+Information about electrical courses?,courses
+What are the PG courses available?,courses
+Do you offer undergraduate courses?,courses
+Is there a civil engineering program?,courses
+Provide course details for IT branch.,courses
+Do you have electronics and communication?,courses
+Tell me about AI and ML course.,courses
+Is there a data science course?,courses
+Do you have cyber security specialization?,courses
+What courses are offered for B.Tech?,courses
+What are the best courses at NIET?,courses
+List of available programs?,courses
+Do you offer part-time courses?,courses
+Are there any diploma courses?,courses
+Is MBA available?,courses
+Tell me about management courses.,courses
+What is the duration of B.Tech course?,courses
+Can I pursue M.Tech after B.Tech here?,courses
+Are there online courses?,courses
+Is there a pharmacy course?,courses
+Which specialization is available in CSE?,courses
+Do you offer BCA course?,courses
+Do you provide foreign language courses?,courses
+What are the academic programs?,courses
+Can you list all offered courses?,courses
+Details about science courses?,courses
+What are the technical courses offered?,courses
+Is there any AI-related course?,courses
+Do you offer computer applications?,courses
+Tell me about BBA course.,courses
+Is biotechnology available?,courses
+Do you offer B.Tech in IT?,courses
+What are the top courses?,courses
+Is there an electrical branch?,courses
+List all B.Tech specializations.,courses
+Give me all course options.,courses
+Tell me all degrees offered.,courses
+Which are the major programs?,courses
+How much is the B.Tech fee?,fees
+Tell me about annual fees.,fees
+What is the total course fee?,fees
+Give me the fee structure.,fees
+How much fee for B.Tech first year?,fees
+What is the hostel fee?,fees
+Provide MBA fee details.,fees
+Tell me about MCA fees.,fees
+What is the M.Tech tuition fee?,fees
+How much for each semester?,fees
+Tell me about tuition charges.,fees
+What is the admission fee?,fees
+Is there any security deposit?,fees
+What is the examination fee?,fees
+Do I have to pay hostel and mess separately?,fees
+What is the average yearly fee?,fees
+How can I pay my fees?,fees
+Is there an online payment option?,fees
+Do you offer fee installment?,fees
+What is the late payment fine?,fees
+How much total for four years?,fees
+Fee details for international students?,fees
+Is there a refundable caution money?,fees
+Provide hostel and tuition fees.,fees
+Tell me total expense per year.,fees
+What is the MBA program cost?,fees
+What is MCA course fee?,fees
+How much to pay at admission time?,fees
+Is there a scholarship to reduce fees?,fees
+What is the mess fee?,fees
+How to pay fee online?,fees
+Are fees same for all branches?,fees
+What is total amount including hostel?,fees
+Is there a separate exam fee?,fees
+Can I pay fees per semester?,fees
+Tell me B.Tech tuition fee.,fees
+Do you take DD or online payment?,fees
+What is the annual fee breakdown?,fees
+Tell me approximate yearly expense.,fees
+Do you have any hidden charges?,fees
+How to get a fee receipt?,fees
+Tell me about hostel,hostel
+Is hostel available?,hostel
+Do you have separate hostels for boys and girls?,hostel
+Tell me hostel fee details.,hostel
+How are hostel facilities?,hostel
+Is hostel inside the campus?,hostel
+Are rooms AC or Non-AC?,hostel
+Do hostels have Wi-Fi?,hostel
+What are hostel timings?,hostel
+Do you provide laundry?,hostel
+How is the food quality?,hostel
+Do students get attached bathrooms?,hostel
+Is hostel compulsory?,hostel
+Are visitors allowed?,hostel
+Tell me about hostel mess.,hostel
+Do you have security in hostels?,hostel
+Is hostel safe for girls?,hostel
+What are the hostel rules?,hostel
+Do rooms have coolers or AC?,hostel
+Are hostels clean?,hostel
+How to apply for hostel?,hostel
+When can I book hostel room?,hostel
+Is hostel fee refundable?,hostel
+How far hostel from campus?,hostel
+Do rooms have Wi-Fi?,hostel
+Are single rooms available?,hostel
+Is hostel life good?,hostel
+Do rooms have furniture?,hostel
+Do you provide bedding?,hostel
+What is the food menu?,hostel
+How many students per room?,hostel
+Can I choose my roommate?,hostel
+Are visitors allowed in hostel?,hostel
+Tell me about AC hostels.,hostel
+Are there Non-AC hostels?,hostel
+Do hostels have CCTV?,hostel
+Is there 24/7 electricity?,hostel
+Do hostels have curfew time?,hostel
+Can parents stay temporarily?,hostel
+What are the hostel facilities?,hostel
+Are hostel fees per year?,hostel
+How to apply for admission?,admissions
+Tell me about admission process.,admissions
+When does admission start?,admissions
+Are admissions open?,admissions
+How to take admission?,admissions
+Can I apply online?,admissions
+Is JEE required for admission?,admissions
+How can I get direct admission?,admissions
+Do you have management quota?,admissions
+Which documents needed for admission?,admissions
+How to apply through UPTAC?,admissions
+What are eligibility criteria?,admissions
+Do you conduct entrance exam?,admissions
+When does registration begin?,admissions
+Is there offline admission?,admissions
+Do you accept JEE Main score?,admissions
+What are admission dates?,admissions
+How can I confirm my seat?,admissions
+Is there spot admission?,admissions
+Do you provide lateral entry?,admissions
+Do you have NRI quota?,admissions
+How to check admission status?,admissions
+What is admission fee?,admissions
+What are required certificates?,admissions
+Do I need original documents?,admissions
+How to get admission in MCA?,admissions
+Can I apply for MBA?,admissions
+Do you take direct B.Tech admissions?,admissions
+Is there counseling process?,admissions
+Do you have online application form?,admissions
+Can I visit campus before admission?,admissions
+Do you have cutoff marks?,admissions
+How to upload documents?,admissions
+Can I apply without entrance exam?,admissions
+Do you have a helpline for admission?,admissions
+When is the last date?,admissions
+Can I change branch after admission?,admissions
+Do you take transfer students?,admissions
+Tell me about admission procedure.,admissions
+Do you have walk-in admission?,admissions
+Placement companies list?,placement
+Tell me about placements.,placement
+Do you have good placements?,placement
+Which companies visit the campus?,placement
+Average package offered?,placement
+Highest package record?,placement
+Top recruiters list?,placement
+How many students placed?,placement
+Do you offer placement training?,placement
+What is placement rate?,placement
+Tell me about internship opportunities.,placement
+Are internships mandatory?,placement
+Which companies recruit CSE students?,placement
+Placement record of NIET?,placement
+Top companies hiring?,placement
+What is the average CTC?,placement
+Do all students get placed?,placement
+Do you conduct placement drives?,placement
+Tell me about placement cell.,placement
+Who are your recruiters?,placement
+How is placement support?,placement
+How many companies visited last year?,placement
+What are the top offers?,placement
+Do MBA students get placements?,placement
+Which branches have best placements?,placement
+How to prepare for placement?,placement
+Do you provide soft skills training?,placement
+Tell me about placement stats.,placement
+Are foreign companies coming?,placement
+Do students get off-campus offers?,placement
+How is the placement process?,placement
+Do you provide placement assistance?,placement
+Is placement compulsory?,placement
+How to register for placement?,placement
+Who manages placement cell?,placement
+Do you conduct mock interviews?,placement
+Do you provide aptitude training?,placement
+What is average salary?,placement
+Which company gives highest package?,placement
+Do all branches have placement?,placement
+Tell me placement partners.,placement
