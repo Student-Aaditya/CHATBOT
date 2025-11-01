@@ -6,13 +6,13 @@ function Chatbot() {
   const [chat, setChat] = useState([]);
 
   const sendMessage = async () => {
-    const res = await axios.post("https://chatbot-backend-vh9l.onrender.com/chat", { message });
+    const res = await axios.post("http://localhost:5498/chat", { message });
     setChat([...chat, { from: "user", text: message }, { from: "bot", text: res.data.response }]);
     setMessage("");
   };
 
   return (
-    <div style={{ width: "400px", margin: "auto" }}>
+    <div style={{ width: "1200px", margin: "23px" }}>
       <div style={{ height: "400px", overflowY: "auto", border: "1px solid gray", padding: "10px" }}>
         {chat.map((msg, i) => (
           <div key={i} style={{ textAlign: msg.from === "user" ? "right" : "left" }}>

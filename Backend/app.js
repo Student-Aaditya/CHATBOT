@@ -5,10 +5,11 @@ const port=process.env.PORT;
 const {spawn} =require("child_process");
 const cors=require("cors");
 const responses=require("./config/data.js");
+
 app.use(cors({
-  origin:["https://chatbot-ef9j.onrender.com/,http://localhost:5173/"],
-  methods:['GET','POST','DELETE'],
-  allowedHeaders:["Content-type"]
+  origin: ["http://localhost:5173", "https://chatbot-ef9j.onrender.com"],
+  methods: ["GET", "POST", "OPTIONS"],
+  allowedHeaders: ["Content-Type"],
 }));
 
 app.use(express.json());
@@ -18,7 +19,7 @@ app.get("/",(req,res)=>{
 })
 app.post("/chat", (req, res) => {
   const userMessage = req.body.message;
-  const python = spawn("python", ["./../model_python/predict_intent.py", userMessage]);
+  const python = spawn("python", ["../model_python/predict_intent.py", userMessage]);
 
 
   python.stdout.on("data", (data) => {

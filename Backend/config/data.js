@@ -2,10 +2,10 @@
 const responses = {
   courses: `
 NIET offers a wide range of programs designed to meet modern industry standards:
-- **Undergraduate Courses (B.Tech)** in Computer Science, IT, AI & ML, Data Science, Electronics, Mechanical, Civil, and Electrical Engineering.
-- **Postgraduate Courses (M.Tech)** in multiple specializations.
-- **Professional Courses:** MBA and MCA programs focusing on practical learning and leadership skills.
-- **Diploma & Value-Added Courses:** AI, IoT, Cybersecurity, and Cloud Computing.
+- Undergraduate Courses (B.Tech)** in Computer Science, IT, AI & ML, Data Science, Electronics, Mechanical, Civil, and Electrical Engineering.
+- Postgraduate Courses (M.Tech)** in multiple specializations.
+- Professional Courses:** MBA and MCA programs focusing on practical learning and leadership skills.
+- Diploma & Value-Added Courses:AI, IoT, Cybersecurity, and Cloud Computing.
 NIET’s curriculum is affiliated with AKTU and approved by AICTE.
 `,
 
