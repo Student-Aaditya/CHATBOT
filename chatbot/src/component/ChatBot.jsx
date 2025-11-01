@@ -6,7 +6,7 @@ function Chatbot() {
   const [chat, setChat] = useState([]);
 
   const sendMessage = async () => {
-    const res = await axios.post("http://localhost:5498/chat", { message });
+    const res = await axios.post("https://chatbot-backend-vh9l.onrender.com/chat", { message });
     setChat([...chat, { from: "user", text: message }, { from: "bot", text: res.data.response }]);
     setMessage("");
   };

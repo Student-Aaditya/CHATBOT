@@ -5,7 +5,12 @@ const port=process.env.PORT;
 const {spawn} =require("child_process");
 const cors=require("cors");
 const responses=require("./config/data.js");
-app.use(cors());
+app.use(cors({
+  origin:"https://chatbot-ef9j.onrender.com/,http://localhost:5173/",
+  methods:['GET','POST','DELETE'],
+  allowedHeaders:["Content-type"]
+}));
+
 app.use(express.json());
 
 app.get("/",(req,res)=>{
