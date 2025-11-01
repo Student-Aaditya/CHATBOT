@@ -18,7 +18,7 @@ app.get("/",(req,res)=>{
 })
 app.post("/chat", (req, res) => {
   const userMessage = req.body.message;
-  const python = spawn("python", ["../model_python/predict_intent.py", userMessage]);
+  const python = spawn("python", ["./../model_python/predict_intent.py", userMessage]);
 
 
   python.stdout.on("data", (data) => {
