@@ -1,6 +1,7 @@
+require("dotenv").config();
 const express=require("express");
 const app=express();
-const port=5498;
+const port=process.env.PORT;
 const {spawn} =require("child_process");
 const cors=require("cors");
 const responses=require("./config/data.js");
@@ -37,7 +38,6 @@ app.post("/chat", (req, res) => {
     }
   });
 });
-
 
 app.listen(port,()=>{
     console.log(`server working on ${port}`);
