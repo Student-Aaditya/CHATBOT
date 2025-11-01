@@ -37,20 +37,20 @@ Artificial Intelligence & Machine Learning
   // 💰 Fees
   fees: `
 The fee structure at NIET is transparent and affordable:
-- B.Tech:₹1.45 Lakhs/year
+- B.Tech: ₹1.45 Lakhs/year
 - M.Tech: ₹1.10 Lakhs/year
-- MBA:₹1.25 Lakhs/year
+- MBA: ₹1.25 Lakhs/year
 - MCA: ₹1.05 Lakhs/year
-- Hostel Fee:₹85,000 – ₹1,20,000 (depending on AC/Non-AC)
+- Hostel Fee: ₹85,000 – ₹1,20,000 (depending on AC/Non-AC)
 Mess and laundry are included for most hostels. Installments allowed.
 `,
 
-  // 🏠 Hostel fees by year & room type
+  // 🏠 Hostel
   hostel: `
 NIET provides comfortable hostels for boys and girls.
 You can ask me detailed hostel fees like:
 "Hostel fee for 1st year double seater AC" or "4th year single Non-AC".
-,
+`,
 
   // 🎯 Structured hostel fee data
   hostelFees: {
@@ -67,7 +67,6 @@ You can ask me detailed hostel fees like:
       4: { single: 85000, double: 75000, triple: 70000, four: 65000 },
     },
   },
-`,
 
   // 🎯 Admission process
   admissions: `
