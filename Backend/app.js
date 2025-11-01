@@ -33,7 +33,7 @@ app.post("/chat", (req, res) => {
   python.stderr.on("data", (data) => {
     console.error(`Error: ${data}`);
     if (!res.headersSent) {
-      res.status(500).json({ error: "Model error" });
+      res.status(500).json({ error: "Model error",msg:data.toString() });
     }
   });
 
