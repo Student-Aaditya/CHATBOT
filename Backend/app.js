@@ -8,7 +8,7 @@ const responses = require("./config/data.js");
 
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://chatbot-ef9j.onrender.com"],
+    origin: ["http://localhost:5173","https://chatbot-ef9j.onrender.com","http://localhost:3000"],
     methods: ["GET", "POST"],
     allowedHeaders: ["Content-Type"],
   })
@@ -16,7 +16,7 @@ app.use(
 
 app.use(express.json());
 
-app.get("/", (req, res) => {
+app.get("/api", (req, res) => {
   res.send("Chatbot backend is running ");
 });
 
@@ -79,5 +79,5 @@ app.post("/chat", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(` Server running on port ${port}`);
+  console.log(`Server running on port ${port}`);
 });
