@@ -1,5 +1,0 @@
-{
-  "watch": ["app.js", "routes", "controllers"],
-  "ignore": ["*.pkl", "training_data.csv", ".env"],
-  "ext": "js,json"
-}
